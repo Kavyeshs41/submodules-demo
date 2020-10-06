@@ -1,0 +1,28 @@
+{
+  "name": "submodules-demo",
+  "version": "1.0.0",
+  "description": "Submodules Demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kavyeshs41/submodules-demo.git"
+  },
+  "keywords": [
+    "submodules",
+    "submodule",
+    "git"
+  ],
+  "author": "Kavyesh Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kavyeshs41/submodules-demo/issues"
+  },
+  "homepage": "https://github.com/Kavyeshs41/submodules-demo#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
